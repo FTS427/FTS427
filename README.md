@@ -1,5 +1,3 @@
-<img src="https://github.com/FTS427/FTS427/intro.gif" alt="👋 Hi there! I'm FTS427 " title="👋 Hi there! I'm FTS427"/>
-</div>
 <p></p>
 <p align="justify">
 欢迎来到我的Git主页！本人是是一个只会C++的初中生和Archlinux党，更新很慢
