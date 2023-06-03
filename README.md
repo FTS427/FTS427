@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm FTS427 " title="👋 Hi there! I'm FTS427"/>
+<img src="https://github.com/FTS427/FTS427/intro.gif" alt="👋 Hi there! I'm FTS427 " title="👋 Hi there! I'm FTS427"/>
 
 </div>
 <p></p>
@@ -14,7 +14,6 @@
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
     </td>
-  <tr>
     <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
@@ -23,7 +22,6 @@
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
-  </tr>
  <tr>
  </tr>
 </table>
