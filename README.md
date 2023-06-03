@@ -1,7 +1,6 @@
-<p></p>
-<p align="justify">
+# Let's build from here! 😄
+
 欢迎来到我的Git主页！本人是是一个只会C++的初中生和Archlinux党，更新很慢
-</p>
 
 ## 我趁手的工具和语言 ⚙️
 
