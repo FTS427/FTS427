@@ -27,7 +27,7 @@
 
 ## 我的项目 📦
 
-[![MathCentralTools](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=MathCentralTools)](https://github.com/FTS427/MathCentralTools)
+[![MathCentralTool](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=MathCentralTool)](https://github.com/FTS427/MathCentralTool)
 [![MCBES](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=MCBES)](https://github.com/FTS427/MCBES)
 [![vimrc](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=vimrc)](https://github.com/FTS427/vimrc)
 [![FTS427](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=FTS427)](https://github.com/FTS427/FTS427)
