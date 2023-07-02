@@ -36,4 +36,5 @@
 
 ![关于FTS427](https://github-readme-stats.vercel.app/api?username=FTS427&count_private=true&show_icons=true)
 
+我正在进步的路上奋力奔跑
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
