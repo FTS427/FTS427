@@ -28,9 +28,7 @@
 ## 我的项目 📦
 
 [![MathCentralTool](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=MathCentralTool)](https://github.com/FTS427/MathCentralTool)
-[![EasyCpp-H](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=EasyCpp-H)](https://github.com/FTS427/EasyCpp-H)
-[![MCBES](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=MCBES)](https://github.com/FTS427/MCBES)
-[![vimrc](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=vimrc)](https://github.com/FTS427/vimrc)
+[![EasyCpp-H](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=ECPPH)](https://github.com/FTS427/ECPPH)
 
 ## 关于我 👋
 
