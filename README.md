@@ -6,7 +6,7 @@
  
 [![Github](https://img.shields.io/badge/FTS427-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FTS427/)
 [![Twitter](https://img.shields.io/badge/FTS427-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/FTS427/)
-![QQ](https://img.shields.io/badge/FTS427-2783629533-%231DA1F2.svg?style=for-the-badge&logo=QQ&logoColor=white)
+![QQ](https://img.shields.io/badge/QQ-2783629533-%231DA1F2.svg?style=for-the-badge&logo=QQ&logoColor=white)
 [![Bilibili](https://img.shields.io/badge/探索者FTS-%23E4405F.svg?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1978537245?spm_id_from=333.1007.0.0)
 
 </div>  
