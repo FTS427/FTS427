@@ -59,4 +59,4 @@
 ![snk](https://github.com/FTS427/FTS427/blob/output/github-contribution-grid-snake.svg)
 
 
-<img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=blue">
+<img src="https://komarev.com/ghpvc/?username=FTS427&label=PROFILE+VIEWS&style=for-the-badge&color=blue">
