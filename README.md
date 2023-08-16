@@ -54,7 +54,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="FTS427's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTS427&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=4682B4&icon_color=87CEEB&hide=Jupyter%20Notebook" height="192px"/></a>
 <br/>
 
-我正在进步的路上奋力奔跑
+我正在进步的路上朝着我的梦想奋力奔跑
 
 ![snk](https://github.com/FTS427/FTS427/blob/output/github-contribution-grid-snake.svg)
 
