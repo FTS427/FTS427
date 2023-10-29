@@ -1,11 +1,10 @@
 # Let's build from here! 😄
 
-欢迎来到我的Git主页！本人是是一个只会C++的初中生和Archlinux党，更新很慢
+欢迎来到我的Git主页！本人是一个初中的Archlinux党，更新很慢qwq
 
 <div align="justify">
  
 [![Github](https://img.shields.io/badge/FTS427-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FTS427/)
-[![Twitter](https://img.shields.io/badge/FTS427-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/FTS427/)
 ![QQ](https://img.shields.io/badge/QQ-2783629533-%231DA1F2.svg?style=for-the-badge&logo=QQ&logoColor=white)
 [![Bilibili](https://img.shields.io/badge/探索者FTS-%23E4405F.svg?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1978537245?spm_id_from=333.1007.0.0)
 
@@ -34,6 +33,10 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
+    </td>
+    <td align="center">
+        <img src="https://techstack-generator.vercel.app/rust-icon.svg" alt="Rust">
+        <br>Rust
     </td>
     <td align="center">
         <img src="https://camo.githubusercontent.com/6749d719380b9d263e87f49890bf0230bb6d92979a18b6e9154be2290fe9134d/68747470733a2f2f7777772e617263686c696e75782e6f72672f7374617469632f6c6f676f732f617263686c696e75782d6c6f676f2d6461726b2d313230306470692e6234326264333564353931362e706e67" width="200" height="65" alt="GitHub" />
