@@ -43,13 +43,13 @@
 
 ## 我的项目 📦
 
-[![MathCentralTool](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=MathCentralTool&theme=nord)](https://github.com/FTS427/MathCentralTool)
-[![EasyCpp-H](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=ECPPH&theme=nord)](https://github.com/FTS427/ECPPH)
+[![MathCentralTool](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=MathCentralTool&hide_border=true&theme=nord)](https://github.com/FTS427/MathCentralTool)
+[![EasyCpp-H](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=ECPPH&hide_border=true&theme=nord)](https://github.com/FTS427/ECPPH)
 
 ## 关于我 👋
 
 ![FTS427's stats](https://github-readme-stats.vercel.app/api?username=FTS427&show_icons=true&count_private=true&hide_border=true&theme=nord&local=cn)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FTS427&layout=donut&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FTS427&hide_border=true&layout=donut&theme=nord)
 
 我正在进步的路上朝着我的梦想奋力奔跑
 
