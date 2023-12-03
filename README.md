@@ -43,15 +43,13 @@
 
 ## 我的项目 📦
 
-[![MathCentralTool](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=MathCentralTool)](https://github.com/FTS427/MathCentralTool)
-[![EasyCpp-H](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=ECPPH)](https://github.com/FTS427/ECPPH)
+[![MathCentralTool](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=MathCentralTool&theme=nord)](https://github.com/FTS427/MathCentralTool)
+[![EasyCpp-H](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=ECPPH&theme=nord)](https://github.com/FTS427/ECPPH)
 
 ## 关于我 👋
 
-<br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="FTS427's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=FTS427&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=87CEEB" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="FTS427's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTS427&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=4682B4&icon_color=87CEEB&hide=Jupyter%20Notebook" height="192px"/></a>
-<br/>
+![FTS427's stats](https://github-readme-stats.vercel.app/api?username=FTS427&show_icons=true&count_private=true&hide_border=true&theme=nord&local=cn)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FTS427&layout=donut&theme=nord)
 
 我正在进步的路上朝着我的梦想奋力奔跑
 
