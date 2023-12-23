@@ -4,7 +4,6 @@
 
 <div align="justify">
  
-[![Github](https://img.shields.io/badge/FTS427-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FTS427/)
 ![QQ](https://img.shields.io/badge/QQ-2783629533-%231DA1F2.svg?style=for-the-badge&logo=QQ&logoColor=white)
 [![Bilibili](https://img.shields.io/badge/探索者FTS-%23E4405F.svg?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1978537245?spm_id_from=333.1007.0.0)
 
@@ -54,5 +53,5 @@
 我正在进步的路上朝着我的梦想奋力奔跑
 
 ![snk](https://github.com/FTS427/FTS427/blob/output/github-contribution-grid-snake.svg)
+![viewn](https://komarev.com/ghpvc/?username=FTS427&label=PROFILE+VIEWS&style=for-the-badge&color=blue)
 
-<img src="https://komarev.com/ghpvc/?username=FTS427&label=PROFILE+VIEWS&style=for-the-badge&color=blue">
