@@ -1,15 +1,15 @@
 # Let's build from here! 😄
 
-欢迎来到我的Git主页！本人是一个初中的Archlinux党，更新很慢qwq
+欢迎来到Huang FTS427的Git页！本人是一个初中的Archlinux党，更新极慢
 
 <div align="justify">
  
-![QQ](https://img.shields.io/badge/QQ-2783629533-%231DA1F2.svg?style=for-the-badge&logo=QQ&logoColor=white)
-[![Bilibili](https://img.shields.io/badge/探索者FTS-%23E4405F.svg?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1978537245?spm_id_from=333.1007.0.0)
+![QQ](https://img.shields.io/badge/QQ-2783629533-%5E81AC.svg?style=for-the-badge&logo=QQ&logoColor=white)
+[![Bilibili](https://img.shields.io/badge/探索者FTS-%81A1C1.svg?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1978537245?spm_id_from=333.1007.0.0)
 
 </div>  
 
-## 我趁手的工具和语言 ⚙️
+## 我趁手的工具 ⚙️
 
 <table>
   <tr> 
@@ -40,7 +40,7 @@
  </tr>
 </table>
 
-## 我的项目 📦
+## 我维护的项目 📦
 
 [![MathCentralTool](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=MathCentralTool&hide_border=true&theme=nord)](https://github.com/FTS427/MathCentralTool)
 [![EasyCpp-H](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=ECPPH&hide_border=true&theme=nord)](https://github.com/FTS427/ECPPH)
@@ -50,8 +50,8 @@
 ![FTS427's stats](https://github-readme-stats.vercel.app/api?username=FTS427&show_icons=true&count_private=true&hide_border=true&theme=nord&local=cn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FTS427&hide_border=true&layout=donut&theme=nord)
 
-我正在进步的路上朝着我的梦想奋力奔跑
+## 我正在进步的路上朝着我的梦想奋力奔跑
 
 ![snk](https://github.com/FTS427/FTS427/blob/output/github-contribution-grid-snake.svg)
-![viewn](https://komarev.com/ghpvc/?username=FTS427&label=PROFILE+VIEWS&style=for-the-badge&color=blue)
+![viewn](https://komarev.com/ghpvc/?username=FTS427&label=PROFILE+VIEWS&style=for-the-badge&color=#5e81ac)
 
