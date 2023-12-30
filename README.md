@@ -4,8 +4,8 @@
 
 <div align="justify">
  
-![QQ](https://img.shields.io/badge/QQ-2783629533-%5E81AC.svg?style=for-the-badge&logo=QQ&logoColor=white)
-[![Bilibili](https://img.shields.io/badge/探索者FTS-%81A1C1.svg?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1978537245?spm_id_from=333.1007.0.0)
+![QQ](https://img.shields.io/badge/QQ-2783629533.svg?style=for-the-badge&logo=QQ&logoColor=white&labelColor=81A1C1)
+[![Bilibili](https://img.shields.io/badge/探索者FTS.svg?style=for-the-badge&logo=bilibili&logoColor=white&labelColor=81A1C1)](https://space.bilibili.com/1978537245?spm_id_from=333.1007.0.0)
 
 </div>  
 
@@ -53,5 +53,5 @@
 ## 我正在进步的路上朝着我的梦想奋力奔跑
 
 ![snk](https://github.com/FTS427/FTS427/blob/output/github-contribution-grid-snake.svg)
-![viewn](https://komarev.com/ghpvc/?username=FTS427&label=PROFILE+VIEWS&style=for-the-badge&color=#5e81ac)
+![view](https://komarev.com/ghpvc/?username=FTS427&label=PROFILE+VIEWS&style=for-the-badge&labelColor=5E81AC)
 
