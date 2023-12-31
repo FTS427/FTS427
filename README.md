@@ -50,5 +50,5 @@
 
 ![snk](https://github.com/FTS427/FTS427/blob/output/github-contribution-grid-snake.svg)
 
-![view](https://komarev.com/ghpvc/?username=FTS427&label=PROFILE+VIEWS&style=for-the-badge)
+![view](https://komarev.com/ghpvc/?username=FTS427&label=PROFILE+VIEWS&style=for-the-badge&color=81a1c1)
 
