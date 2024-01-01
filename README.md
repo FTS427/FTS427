@@ -46,9 +46,7 @@
 ![FTS427's stats](https://github-readme-stats.vercel.app/api?username=FTS427&show_icons=true&count_private=true&hide_border=true&theme=nord&local=cn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FTS427&hide_border=true&layout=donut&theme=nord)
 
-## 我正在进步的路上朝着我的梦想奋力奔跑
-
-![snk](https://github.com/FTS427/FTS427/blob/output/github-contribution-grid-snake.svg)
+我正在进步的路上朝着我的梦想奋力奔跑
 
 ![view](https://komarev.com/ghpvc/?username=FTS427&label=PROFILE+VIEWS&style=for-the-badge&color=81a1c1)
 
