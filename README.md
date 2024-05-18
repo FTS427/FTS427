@@ -30,7 +30,7 @@
       <br>Github
     </td>
     <td align="center">
-        <img src="https://camo.githubusercontent.com/6749d719380b9d263e87f49890bf0230bb6d92979a18b6e9154be2290fe9134d/68747470733a2f2f7777772e617263686c696e75782e6f72672f7374617469632f6c6f676f732f617263686c696e75782d6c6f676f2d6461726b2d313230306470692e6234326264333564353931362e706e67" width="200" height="65" alt="GitHub" />
+        <img src="https://archlinux.org/static/logos/archlinux-logo-light-90dpi.d36c53534a2b.png" width="200" height="65" alt="GitHub" />
       <br>Archlinux
     </td>
  </tr>
@@ -38,8 +38,9 @@
 
 ## 我维护的项目 📦
 
-[![MathCentralTool](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=MathCentralTool&hide_border=true&theme=nord)](https://github.com/FTS427/MathCentralTool)
-[![EasyCpp-H](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=ECPPH&hide_border=true&theme=nord)](https://github.com/FTS427/ECPPH)
+[![MathCentralTool](https://github-readme-stats.vercel.app/api/pin/?username=QuantumLS-Studio&repo=MathCentralTool&hide_border=true&theme=nord)](https://github.com/FTS427/MathCentralTool)
+[![EasyCpp-H](https://github-readme-stats.vercel.app/api/pin/?username=QuantumLS-Studio&repo=ECPPH&hide_border=true&theme=nord)](https://github.com/FTS427/ECPPH)
+[![LL-Easier](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=llbds_packer&hide_border=true&theme=nord)](https://github.com/FTS427/llbds_packer)
 
 ## 关于我 👋
 
