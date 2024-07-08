@@ -1,6 +1,6 @@
 # Let's build from here! 😄
 
-欢迎来到Huang FTS427的Git页！本人是一个初中的Archlinux党，更新极慢
+欢迎来到Huang FTS427的Git页！本人是一个Archer，更新极慢
 
 ![QQ](https://img.shields.io/badge/QQ-2783629533-81A1C1.svg?style=for-the-badge&logo=QQ&logoColor=white)
 [![Bilibili](https://img.shields.io/badge/探索者FTS-81A1C1.svg?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1978537245?spm_id_from=333.1007.0.0)
