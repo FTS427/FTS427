@@ -1,6 +1,6 @@
 # Let's build from here! 😄
 
-欢迎来到Huang FTS427的Git页！本人是一个Archer，更新极慢
+欢迎来到 Huang FTS427 的 Github 主页！繁忙的高中生一枚，随缘更新~
 
 ![QQ](https://img.shields.io/badge/QQ-2783629533-81A1C1.svg?style=for-the-badge&logo=QQ&logoColor=white)
 [![Bilibili](https://img.shields.io/badge/探索者FTS-81A1C1.svg?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1978537245?spm_id_from=333.1007.0.0)
@@ -40,7 +40,7 @@
 
 [![MathCentralTool](https://github-readme-stats.vercel.app/api/pin/?username=QuantumLS-Studio&repo=MathCentralTool&hide_border=true&theme=nord)](https://github.com/FTS427/MathCentralTool)
 [![EasyCpp-H](https://github-readme-stats.vercel.app/api/pin/?username=QuantumLS-Studio&repo=ECPPH&hide_border=true&theme=nord)](https://github.com/FTS427/ECPPH)
-[![LL-Easier](https://github-readme-stats.vercel.app/api/pin/?username=FTS427&repo=llbds_packer&hide_border=true&theme=nord)](https://github.com/FTS427/llbds_packer)
+[![LL-Easier](https://github-readme-stats.vercel.app/api/pin/?username=ZH-Server&repo=ll_easier&hide_border=true&theme=nord)](https://github.com/ZH-Server/ll_easier)
 
 ## 关于我 👋
 
