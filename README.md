@@ -2,8 +2,10 @@
 
 欢迎来到 Huang FTS427 的 Github 主页！繁忙的高中生一枚，随缘更新~
 
-![QQ](https://img.shields.io/badge/QQ-2783629533-81A1C1.svg?style=for-the-badge&logo=QQ&logoColor=white)
+![QQ](https://img.shields.io/badge/2783629533-81A1C1.svg?style=for-the-badge&logo=qq&logoColor=white)
 [![Bilibili](https://img.shields.io/badge/探索者FTS-81A1C1.svg?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1978537245?spm_id_from=333.1007.0.0)
+![Coolapk](https://img.shields.io/badge/酷安-FTS427-81A1C1.svg?style=for-the-badge&logo=coolapk&logoColor=white)
+![Gmail](https://img.shields.io/badge/FTS427quantum@gmail-81A1C1.svg?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## 我趁手的工具 ⚙️
 
@@ -50,4 +52,3 @@
 我正在进步的路上朝着我的梦想奋力奔跑
 
 ![view](https://komarev.com/ghpvc/?username=FTS427&label=PROFILE+VIEWS&style=for-the-badge&color=81a1c1)
-
