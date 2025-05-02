@@ -1,6 +1,6 @@
 # Let's build from here! 😄
 
-欢迎来到 Huang FTS427 的 Github 主页！繁忙的高中生一枚，随缘更新~
+这里是 Huang FTS427 ，忙碌的高中生一枚，不定期更新~
 
 ![QQ](https://img.shields.io/badge/2783629533-81A1C1.svg?style=for-the-badge&logo=qq&logoColor=white)
 [![Bilibili](https://img.shields.io/badge/探索者FTS-81A1C1.svg?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1978537245?spm_id_from=333.1007.0.0)
@@ -10,7 +10,7 @@
 ## 我趁手的工具 ⚙️
 
 <table>
-  <tr> 
+  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
@@ -38,15 +38,15 @@
  </tr>
 </table>
 
-## 我维护的项目 📦
+## 我有所贡献的项目 📦
 
-[![MathCentralTool](https://github-readme-stats.vercel.app/api/pin/?username=QuantumLS-Studio&repo=MathCentralTool&hide_border=true&theme=nord)](https://github.com/FTS427/MathCentralTool)
-[![EasyCpp-H](https://github-readme-stats.vercel.app/api/pin/?username=QuantumLS-Studio&repo=ECPPH&hide_border=true&theme=nord)](https://github.com/FTS427/ECPPH)
+[![Real Weather](https://github-readme-stats.vercel.app/api/pin/?username=ZH-Server&repo=endstone_real_weather&hide_border=true&theme=nord)](https://github.com/ZH-Server/endstone_real_weather)
+[![WonderLab](https://github-readme-stats.vercel.app/api/pin/?username=Lunova-Studio&repo=WonderLab.Override&hide_border=true&theme=nord)](https://github.com/Lunova-Studio/WonderLab.Override)
 [![LL-Easier](https://github-readme-stats.vercel.app/api/pin/?username=ZH-Server&repo=ll_easier&hide_border=true&theme=nord)](https://github.com/ZH-Server/ll_easier)
 
 ## 关于我 👋
 
-![FTS427's stats](https://github-readme-stats.vercel.app/api?username=FTS427&show_icons=true&count_private=true&hide_border=true&theme=nord&local=cn)
+![FTS427's status](https://github-readme-stats.vercel.app/api?username=FTS427&show_icons=true&count_private=true&hide_border=true&theme=nord&local=cn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FTS427&hide_border=true&layout=donut&theme=nord)
 
 我正在进步的路上朝着我的梦想奋力奔跑
