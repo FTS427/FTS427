@@ -1,13 +1,13 @@
 # Let's build from here! 😄
 
-这里是 Huang FTS427 ，忙碌的高中生一枚，不定期更新~
+I'm Huang FTS427, a busy senior school student.
 
 ![QQ](https://img.shields.io/badge/2783629533-81A1C1.svg?style=for-the-badge&logo=qq&logoColor=white)
-[![Bilibili](https://img.shields.io/badge/探索者FTS-81A1C1.svg?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1978537245?spm_id_from=333.1007.0.0)
-![Coolapk](https://img.shields.io/badge/酷安-FTS427-81A1C1.svg?style=for-the-badge&logo=coolapk&logoColor=white)
+[![Bilibili](https://img.shields.io/badge/Huang_FTS427-81A1C1.svg?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1978537245?spm_id_from=333.1007.0.0)
+![Coolapk](https://img.shields.io/badge/Coolapk-FTS427-81A1C1.svg?style=for-the-badge&logo=coolapk&logoColor=white)
 ![Gmail](https://img.shields.io/badge/FTSquantum@gmail-81A1C1.svg?style=for-the-badge&logo=gmail&logoColor=white)
 
-## 我趁手的工具 ⚙️
+## Languages and tools I use ⚙️
 
 <table>
   <tr>
@@ -19,7 +19,7 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
-    <td align="center"  width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
       <br>Rust
     </td>
@@ -38,17 +38,17 @@
  </tr>
 </table>
 
-## 我有所贡献的项目 📦
+## Projects I contributed 📦
 
 [![Real Weather](https://github-readme-stats.vercel.app/api/pin/?username=ZH-Server&repo=endstone_real_weather&hide_border=true&theme=nord)](https://github.com/ZH-Server/endstone_real_weather)
 [![WonderLab](https://github-readme-stats.vercel.app/api/pin/?username=Lunova-Studio&repo=WonderLab.Override&hide_border=true&theme=nord)](https://github.com/Lunova-Studio/WonderLab.Override)
 [![LL-Easier](https://github-readme-stats.vercel.app/api/pin/?username=ZH-Server&repo=ll_easier&hide_border=true&theme=nord)](https://github.com/ZH-Server/ll_easier)
 
-## 关于我 👋
+## About me 👋
 
 ![FTS427's status](https://github-readme-stats.vercel.app/api?username=FTS427&show_icons=true&count_private=true&hide_border=true&theme=nord&local=cn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FTS427&hide_border=true&layout=donut&theme=nord)
 
-我正在进步的路上朝着我的梦想奋力奔跑
+I'm running for my dream.
 
 ![view](https://komarev.com/ghpvc/?username=FTS427&label=PROFILE+VIEWS&style=for-the-badge&color=81a1c1)
